@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1006459625807-enn12lftrjf6hojov71q1a4p1s3ta1i5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1006459625807-enn12lftrjf6hojov71q1a4p1s3ta1i5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2JiCdvSdGh7g3w2AL3TJIG69PbBdV6v4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1006459625807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pelniOne</string>
+	<key>PROJECT_ID</key>
+	<string>pelnione</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pelnione.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1006459625807:ios:875068f9346d44ed4e653a</string>
+	<key>DATABASE_URL</key>
+	<string>https://pelnione.firebaseio.com</string>
+</dict>
+</plist>
